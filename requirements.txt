@@ -11,6 +11,8 @@ ydata_profiling>=4.18.1
 scikit-learn>=1.3.0
 imblearn
 optuna
+optuna-integration[catboost]
+catboost>=1.2.10
 
 # Jupyter
 jupyter>=1.0.0
